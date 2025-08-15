@@ -2,6 +2,8 @@
 
 A curated collection of Effect-TS repositories optimized for LLM-assisted learning and development.
 
+Set it up via directions below, fire up claude, and ask away!
+
 ## Quick Start
 
 1. **Clone this repository:**
