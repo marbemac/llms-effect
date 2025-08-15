@@ -10,8 +10,8 @@
     "https://github.com/tim-smart/effect-rx-playground.git",
     "https://github.com/ethanniser/effect-workshop.git",
     "https://github.com/Effect-TS/effect-smol.git",
-    "https://github.com/pigoz/lucas-building-an-app-with-effect.git",
-    "https://github.com/pigoz/lucas-effect-monorepo.git",
+    "https://github.com/lucas-barake/building-an-app-with-effect.git",
+    "https://github.com/lucas-barake/effect-monorepo.git",
     "https://github.com/IMax153/effect-days-2025-keynote.git"
   ]
 }

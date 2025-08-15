@@ -39,6 +39,18 @@
     {
       "name": "📦 Effect v4 (Smol)",
       "path": "./effect-ts-effect-smol"
+    },
+    {
+      "name": "🏗️ Building an App with Effect",
+      "path": "./lucas-barake-building-an-app-with-effect"
+    },
+    {
+      "name": "📁 Effect Monorepo",
+      "path": "./lucas-barake-effect-monorepo"
+    },
+    {
+      "name": "🎤 Effect Days 2025 Keynote",
+      "path": "./imax153-effect-days-2025-keynote"
     }
   ],
   "settings": {
@@ -57,7 +69,10 @@
       "./tim-smart-effect-rx-playground",
       "./tim-smart-receipts",
       "./effect-ts-discord-bot",
-      "./effect-ts-effect-smol"
+      "./effect-ts-effect-smol",
+      "./lucas-barake-building-an-app-with-effect",
+      "./lucas-barake-effect-monorepo",
+      "./imax153-effect-days-2025-keynote"
     ],
     "search.exclude": {
       "**/node_modules": true,
