@@ -1,0 +1,17 @@
+{
+  "repositories": [
+    "https://github.com/Effect-TS/effect.git",
+    "https://github.com/dmmulroy/effect.guide.git",
+    "https://github.com/PaulJPhilp/EffectPatterns.git",
+    "https://github.com/Effect-TS/examples.git",
+    "https://github.com/Effect-TS/discord-bot.git",
+    "https://github.com/tim-smart/effect-http-play.git",
+    "https://github.com/tim-smart/receipts.git",
+    "https://github.com/tim-smart/effect-rx-playground.git",
+    "https://github.com/ethanniser/effect-workshop.git",
+    "https://github.com/Effect-TS/effect-smol.git",
+    "https://github.com/pigoz/lucas-building-an-app-with-effect.git",
+    "https://github.com/pigoz/lucas-effect-monorepo.git",
+    "https://github.com/IMax153/effect-days-2025-keynote.git"
+  ]
+}

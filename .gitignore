@@ -1,0 +1,20 @@
+# Cloned repositories - these will be downloaded by setup.sh
+effect-ts-effect/
+dmmulroy-effect.guide/
+pauljphilp-effectpatterns/
+effect-ts-examples/
+effect-ts-discord-bot/
+tim-smart-effect-http-play/
+tim-smart-receipts/
+tim-smart-effect-rx-playground/
+ethanniser-effect-workshop/
+effect-ts-effect-smol/
+pigoz-lucas-building-an-app-with-effect/
+pigoz-lucas-effect-monorepo/
+imax153-effect-days-2025-keynote/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log

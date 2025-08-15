@@ -1,0 +1,80 @@
+{
+  "folders": [
+    {
+      "name": "📚 Effect Guide",
+      "path": "./dmmulroy-effect.guide"
+    },
+    {
+      "name": "⚡ Effect Core",
+      "path": "./effect-ts-effect"
+    },
+    {
+      "name": "📦 Effect Examples",
+      "path": "./effect-ts-examples"
+    },
+    {
+      "name": "🎯 Effect Patterns",
+      "path": "./pauljphilp-effectpatterns"
+    },
+    {
+      "name": "🎮 Effect Workshop",
+      "path": "./ethanniser-effect-workshop"
+    },
+    {
+      "name": "🔌 Effect HTTP Play",
+      "path": "./tim-smart-effect-http-play"
+    },
+    {
+      "name": "🎭 Effect RX Playground",
+      "path": "./tim-smart-effect-rx-playground"
+    },
+    {
+      "name": "🧾 Receipts App",
+      "path": "./tim-smart-receipts"
+    },
+    {
+      "name": "🤖 Discord Bot",
+      "path": "./effect-ts-discord-bot"
+    },
+    {
+      "name": "📦 Effect v4 (Smol)",
+      "path": "./effect-ts-effect-smol"
+    }
+  ],
+  "settings": {
+    // Global workspace settings - apply to ALL projects
+    "files.associations": {
+      "*.json": "jsonc",
+      "*.md": "markdown"
+    },
+    "eslint.workingDirectories": [
+      "./dmmulroy-effect.guide",
+      "./effect-ts-effect",
+      "./effect-ts-examples",
+      "./pauljphilp-effectpatterns",
+      "./ethanniser-effect-workshop",
+      "./tim-smart-effect-http-play",
+      "./tim-smart-effect-rx-playground",
+      "./tim-smart-receipts",
+      "./effect-ts-discord-bot",
+      "./effect-ts-effect-smol"
+    ],
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/build": true,
+      "**/.next": true,
+      "**/pnpm-lock.yaml": true,
+      "**/yarn.lock": true,
+      "**/package-lock.json": true,
+      "**/.turbo": true
+    },
+    "files.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/build": true,
+      "**/.next": true,
+      "**/.turbo": true
+    }
+  }
+}
