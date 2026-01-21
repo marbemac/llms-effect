@@ -51,6 +51,14 @@
     {
       "name": "🎤 Effect Days 2025 Keynote",
       "path": "./imax153-effect-days-2025-keynote"
+    },
+    {
+      "name": "🔔 Beep Effect",
+      "path": "./kriegcloud-beep-effect"
+    },
+    {
+      "name": "🔄 Durable Effect",
+      "path": "./backpine-durable-effect"
     }
   ],
   "settings": {
@@ -72,7 +80,9 @@
       "./effect-ts-effect-smol",
       "./lucas-barake-building-an-app-with-effect",
       "./lucas-barake-effect-monorepo",
-      "./imax153-effect-days-2025-keynote"
+      "./imax153-effect-days-2025-keynote",
+      "./kriegcloud-beep-effect",
+      "./backpine-durable-effect"
     ],
     "search.exclude": {
       "**/node_modules": true,
